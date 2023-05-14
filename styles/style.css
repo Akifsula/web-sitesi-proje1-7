@@ -518,9 +518,10 @@ margin-top: 3rem;
     
     
 }
-
-
-
+.trabzonspor .trabzonspor-container .trabzonspor-başlık{
+    margin-bottom: 30px;
+    margin-top: -40px;
+}
 .trabzonspor{
     background: url(../images/wall2.jpg) no-repeat;
     height: calc(300vh - 150px);
@@ -538,7 +539,7 @@ margin-top: 3rem;
     margin: 10px;
     padding: 10px;
     color: white;
-    font-size: 30px;
+    font-size: 70px;
 }
 
 .trabzonspor .trabzonspor-container .main{
@@ -569,12 +570,14 @@ margin-top: 3rem;
     border-radius: 10px;
     border-style: groove;
     box-shadow: 0px 4px 8px rgba(255, 255, 255, 0.605);
+    opacity: .9.5;
 }
 
 .trabzonspor .trabzonspor-container p{
     padding: 5px;
     margin: 5px;
     text-transform: none;
+    font-size: larger;
 }
 
 
@@ -600,12 +603,6 @@ margin-top: 3rem;
         width: 200px;
     }
 }
-
-/* responsive end */
-
-
-
-
 
 
 
